@@ -14,21 +14,28 @@
 
 </div>
 
-## Samples
-Verified samples (English intelligent copy):
+## Sample gallery
+
+**16:9 landscape left–right samples**
 
 | sample-05 | sample-06 |
 |---|---|
 | ![sample-05](assets/examples/sample-05.png) | ![sample-06](assets/examples/sample-06.png) |
 | ![sample-07](assets/examples/sample-07.png) | ![sample-08](assets/examples/sample-08.png) |
 
+**3:4 portrait top–bottom samples**
 
-Sample positions are reserved. Verifiable original works or extensions reviewed directly against the Panel 090 source brief will be shown here first; images from another numbered Panel and broken placeholders are never substituted.
+| sample-09 | sample-10 |
+|---|---|
+| ![sample-09](assets/examples/sample-09.png) | ![sample-10](assets/examples/sample-10.png) |
+| ![sample-11](assets/examples/sample-11.png) | ![sample-12](assets/examples/sample-12.png) |
+
+`sample-01`–`sample-04` remain reserved for verifiable original release samples. The eight works above comprise four 16:9 landscape left–right samples and four 3:4 portrait top–bottom samples. Every work was generated independently by Panel 090 from its own original brief; no artwork from another numbered Panel is reused. The samples use intelligent English copy.
 
 <!-- xxd-human-intro:start -->
 ## What it solves
 
-An object explainer only says what something is, while flowcharts and tech UI flatten meaning into templates. Panel 090 maps relation, process, state, and implication instead.
+An object explainer only says what something is, while flowcharts and tech UI flatten meaning into templates. Panel 090 maps relationships, processes, states, and metaphors instead.
 
 **Panel 090** treats the photograph as a conceptual centre, decomposing action, direction, space, emotion, relation, and metaphor into words, nodes, trajectories, regions, arrows, and connections. Semantic type, geometric relations, and handmade marks build an art map between drawing, diagram, and thinking note.
 
@@ -58,7 +65,7 @@ The Chinese file preserves the user's wording verbatim and is the sole runtime c
 
 | What you need to know | What this style gives you |
 |---|---|
-| **What you get** | A visual-thinking map of the source's relationships, processes, states, and implications |
+| **What you get** | A visual-thinking map of the source's relationships, processes, states, and metaphors |
 | **Recognisable signature** | Semantic type nodes, geometric skeletons, arrows, trajectories, directional marks, handmade offsets, and broad whitespace |
 | **How it respects the source** | Subject, action, space, emotion, and narrative become the conceptual centre rather than an object explanation |
 | **Where it works** | Art posters, covers, social content, design-only art, multiple ratios, and four-device wallpaper sets |
@@ -76,7 +83,7 @@ analyse subject, contour, pose, and narrative relation → establish a conceptua
 - Black, charcoal, or a deep composite carries the semantic and geometric skeleton; one to three source-derived vivid colours carry nodes, trajectories, and density fields.
 - Type remains readable while acting as nodes, coordinates, and notation through contrast, rotation, repetition, overlap, path alignment, and fragmentation.
 - Broad pale space lets relation, direction, and information breathe; do not fill the page with a regular grid.
-- Avoid mind maps, standard flowcharts, dashboards, tech UI, cyber interfaces, decorative tangles, realist illustration, and template infographics.
+- Avoid traditional mind maps, standard flowcharts, data dashboards, tech UI, cyber interfaces, regular grids that fill the canvas, decorative random lines, dense accumulations of complex information, realistic illustration, and templated infographics.
 
 All aesthetic constraints live only in the [canonical prompt](references/original-prompt/zh-CN.md). The Skill and runtime adapters resolve delivery variables. [Skill workflow](SKILL.md) · [English runtime adapter](references/xxd-panel-090-prompt.en.md)
 
