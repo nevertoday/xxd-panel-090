@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 090
+# 🦁 XXD Panel 090｜ビジュアル思考マップ
 
 ### 写真の背後にある関係と意味を視覚思考マップへ
 

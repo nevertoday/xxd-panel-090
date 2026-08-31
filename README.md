@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 090
+# 🦁 XXD Panel 090｜视觉思维图
 
 ### 把照片背后的关系与意义画成视觉思维地图
 

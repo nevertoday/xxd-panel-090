@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 090
+# 🦁 XXD Panel 090｜Visual Thinking Map
 
 ### Map the relationships and meanings behind a photograph as visual thinking
 

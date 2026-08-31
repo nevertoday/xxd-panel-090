@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 090
+# 🦁 XXD Panel 090｜시각적 사고 지도
 
 ### 사진 뒤의 관계와 의미를 시각적 사고 지도로 만듭니다
 
