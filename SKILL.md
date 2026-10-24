@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-090
-description: "Create XXD Panel 090 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-090 or requests the exact Panel 090 style."
+description: "XXD Panel 090｜Visual Thinking Map: does not draw the photo's subject but turns it into a concept centre, translating its action, direction, space, mood, relationships and metaphor into a diagrammatic map of words, nodes, trajectories, zones, arrows and links — a faint geometric skeleton from the subject's outline or pose, triangles, crossing axes, radiating lines and wave paths, plus fields of repeated directional short strokes, dots, ticks and hand marks — in black or charcoal with one to three lively colours from the photo on a pale ground with large whitespace, where the words themselves are structure in thin, rational editorial type. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-090 or asks for concept map, diagrammatic abstraction, visual notation or visual-thinking art from a photo."
 ---
 
 # XXD Panel 090

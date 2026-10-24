@@ -1,0 +1,119 @@
+{
+  "skill_description": "XXD Panel 090｜Visual Thinking Map: does not draw the photo's subject but turns it into a concept centre, translating its action, direction, space, mood, relationships and metaphor into a diagrammatic map of words, nodes, trajectories, zones, arrows and links — a faint geometric skeleton from the subject's outline or pose, triangles, crossing axes, radiating lines and wave paths, plus fields of repeated directional short strokes, dots, ticks and hand marks — in black or charcoal with one to three lively colours from the photo on a pale ground with large whitespace, where the words themselves are structure in thin, rational editorial type. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-090 or asks for concept map, diagrammatic abstraction, visual notation or visual-thinking art from a photo.",
+  "short_description": "视觉思维图：不画原物，把照片背后的动作、关系和意义画成文字、节点和轨迹组成的思维地图",
+  "zh-CN": {
+    "name": "视觉思维图",
+    "tagline": "不画照片里的东西，而是把它背后的关系和意义画成一张视觉思维地图。",
+    "look": "画面不直接描绘原物，而把它当作一个概念中心，把动作、方向、空间、情绪和关系拆成关键词、节点、轨迹、区域、箭头和连线。主体的轮廓或姿态只隐约成为底层几何骨架，上面是三角结构、折线、交叉轴线、放射线和局部框选，外围有等高线般的曲线和波形路径。各处还有大量重复的方向性短线、点、刻度和手写记号，疏密随力量和速度变化。颜色是黑或炭灰负责文字和骨架，再加一到三种从照片里取来的鲜活颜色标出节点和轨迹，底子浅、留白大。文字本身就是结构，大小反差、旋转、沿路径排列，用纤细理性、略有拉伸倾斜的编辑字体。",
+    "traits": [
+      "概念中心",
+      "文字节点",
+      "几何骨架",
+      "轨迹箭头",
+      "方向性 mark-making",
+      "1–3种强调色"
+    ],
+    "good": [
+      "有明显动作和方向的照片：奔跑的人、起飞的鸟、转弯的自行车",
+      "人和环境之间有关系的画面：等车的人、过马路的人群、海边看浪的人",
+      "想表达过程、状态或隐喻的照片：一杯正在冷却的咖啡、一棵在风里的树、一扇半开的门"
+    ],
+    "poor": [
+      "想认出原物长什么样的需求：人像、宠物写真、产品展示，这里不直接画原物",
+      "想要传统思维导图、标准流程图、数据图表或科技 UI 的需求",
+      "需要写实插画、完整场景或丰富色彩的照片"
+    ]
+  },
+  "en": {
+    "name": "Visual Thinking Map",
+    "tagline": "Instead of drawing what is in your photo, maps the relationships and meaning behind it as visual thinking.",
+    "look": "The original is not drawn directly. It becomes a concept centre, and its action, direction, space, mood and relationships are broken into keywords, nodes, trajectories, zones, arrows and links. The subject's outline or pose only faintly forms an underlying geometric skeleton, overlaid with triangles, folded lines, crossing axes, radiating lines and small frames, with contour-like curves and wave paths around the edges. Fields of repeated directional short strokes, dots, ticks and hand marks run throughout, denser or sparser with the subject's force and speed. Black or charcoal carries the text and skeleton, one to three lively colours from the photo mark nodes and paths, and the ground is pale with lots of white space. The words are part of the structure, with size contrast, rotation and text set along paths, in thin, rational editorial type that is slightly stretched or tilted.",
+    "traits": [
+      "Concept centre",
+      "Word nodes",
+      "Geometric skeleton",
+      "Trajectories and arrows",
+      "Directional mark-making",
+      "1–3 accent colours"
+    ],
+    "good": [
+      "Photos with clear action and direction: a runner, a bird taking off, a bicycle turning",
+      "Scenes with a relationship between people and setting: someone waiting for a bus, a crowd crossing a road, a person watching waves",
+      "Photos about a process, a state or a metaphor: a cooling cup of coffee, a tree in the wind, a half-open door"
+    ],
+    "poor": [
+      "Wanting to recognise what the original looks like: portraits, pet photos, product shots, since the subject is not drawn directly",
+      "Requests for a classic mind map, a standard flowchart, data charts or a tech UI",
+      "Photos that call for realistic illustration, a full scene or rich colour"
+    ]
+  },
+  "ja": {
+    "name": "ビジュアル思考マップ",
+    "tagline": "写真に写ったものを描くのではなく、その裏にある関係と意味をビジュアル思考の地図として描きます。",
+    "look": "元の姿はそのまま描きません。主役を一つの概念の中心とみなし、動き、向き、空間、感情、関係をキーワード、節点、軌跡、領域、矢印、つながりに分けます。主役の輪郭や姿勢はうっすらと下地の幾何学的な骨組みになり、その上に三角形、折れ線、交差する軸、放射線、部分的な枠囲みが重なり、外側には等高線のような曲線や波の経路があります。全体に、方向をもった短い線の繰り返し、点、目盛り、手書きの印が広がり、主役の力や速さに応じて密度が変わります。黒や炭色が文字と骨組みを担い、写真から取った生き生きした一〜三色が節点や軌跡を示し、地は淡く余白は広くとります。文字そのものが構造で、大小の差、回転、経路に沿った配置があり、細く理知的で少し伸びたり傾いたりした編集書体で組まれます。",
+    "traits": [
+      "概念の中心",
+      "言葉の節点",
+      "幾何学の骨組み",
+      "軌跡と矢印",
+      "方向のあるマーク",
+      "アクセント1〜3色"
+    ],
+    "good": [
+      "動きと向きがはっきりした写真：走る人、飛び立つ鳥、曲がる自転車",
+      "人と環境の関係がある場面：バスを待つ人、道を渡る人々、波を眺める人",
+      "過程や状態、比喩を表したい写真：冷めていくコーヒー、風の中の木、半分開いた扉"
+    ],
+    "poor": [
+      "元の見た目を見分けたい場合：ポートレート、ペット写真、商品紹介（主役はそのまま描かれません）",
+      "昔ながらのマインドマップ、標準的なフローチャート、データグラフ、テック系 UI を求める場合",
+      "写実的なイラスト、場面全体、豊かな色彩が必要な写真"
+    ]
+  },
+  "ko": {
+    "name": "시각적 사고 지도",
+    "tagline": "사진 속 대상을 그리는 대신, 그 뒤에 있는 관계와 의미를 시각적 사고 지도로 그립니다.",
+    "look": "원래 모습을 그대로 그리지 않습니다. 주인공을 하나의 개념 중심으로 보고, 동작, 방향, 공간, 감정, 관계를 키워드, 노드, 궤적, 영역, 화살표, 연결선으로 나눕니다. 주인공의 윤곽이나 자세는 바탕의 기하 골격으로 어렴풋이만 남고, 그 위에 삼각 구조, 꺾은선, 교차 축, 방사선, 부분 테두리가 겹치며, 바깥에는 등고선 같은 곡선과 물결 경로가 있습니다. 화면 곳곳에 방향성 있는 짧은 선의 반복, 점, 눈금, 손으로 그은 표시가 퍼져 있고, 주인공의 힘과 속도에 따라 밀도가 달라집니다. 검정이나 숯빛 회색이 글자와 골격을 맡고, 사진에서 가져온 생기 있는 한두 가지에서 세 가지 색이 노드와 궤적을 표시하며, 바탕은 연하고 여백이 넓습니다. 글자 자체가 구조가 되어 크기 대비, 회전, 경로를 따른 배열을 이루고, 가늘고 이성적이며 살짝 늘어나거나 기운 편집 서체로 짜입니다.",
+    "traits": [
+      "개념 중심",
+      "단어 노드",
+      "기하 골격",
+      "궤적과 화살표",
+      "방향성 마크",
+      "강조색 1~3가지"
+    ],
+    "good": [
+      "동작과 방향이 뚜렷한 사진: 달리는 사람, 날아오르는 새, 방향을 트는 자전거",
+      "사람과 환경 사이에 관계가 있는 장면: 버스를 기다리는 사람, 길을 건너는 사람들, 파도를 바라보는 사람",
+      "과정이나 상태, 은유를 표현하고 싶은 사진: 식어 가는 커피, 바람 속 나무, 반쯤 열린 문"
+    ],
+    "poor": [
+      "원래 모습을 알아보고 싶은 경우: 인물 사진, 반려동물 사진, 제품 소개(주인공을 그대로 그리지 않습니다)",
+      "전통적인 마인드맵, 표준 순서도, 데이터 차트, 테크 UI를 원하는 경우",
+      "사실적인 일러스트, 장면 전체, 풍부한 색이 필요한 사진"
+    ]
+  },
+  "ar": {
+    "name": "خريطة التفكير البصري",
+    "tagline": "بدلاً من رسم ما في صورتك، يرسم العلاقات والمعاني الكامنة خلفها خريطةً للتفكير البصري.",
+    "look": "لا يُرسم الأصل مباشرة، بل يصبح مركزاً مفاهيمياً، وتُفكَّك حركته واتجاهه ومكانه ومزاجه وعلاقاته إلى كلمات مفتاحية وعقد ومسارات ومناطق وأسهم وروابط. لا يشكّل محيط العنصر أو وضعيته إلا هيكلاً هندسياً خافتاً في الأسفل، تعلوه مثلثات وخطوط منكسرة ومحاور متقاطعة وخطوط شعاعية وأطر جزئية، وعلى الأطراف منحنيات تشبه خطوط الكنتور ومسارات موجية. وتنتشر في كل مكان حقول من ضربات قصيرة متكررة ذات اتجاه ونقاط وتدريجات وعلامات يدوية، تزداد كثافتها أو تقلّ بحسب قوة العنصر وسرعته. الأسود أو الرمادي الفحمي يحمل النص والهيكل، ولون إلى ثلاثة ألوان حيّة من الصورة تميّز العقد والمسارات، والأرضية فاتحة مع فراغ كثير. والكلمات نفسها جزء من البنية، بتباين في الأحجام ودوران وتنضيد على المسارات، بحرف تحريري رفيع عقلاني ممطوط أو مائل قليلاً.",
+    "traits": [
+      "مركز مفاهيمي",
+      "كلمات كعُقد",
+      "هيكل هندسي",
+      "مسارات وأسهم",
+      "علامات اتجاهية",
+      "1–3 ألوان مميزة"
+    ],
+    "good": [
+      "صور فيها حركة واتجاه واضحان: عدّاء، طائر يقلع، دراجة تنعطف",
+      "مشاهد فيها علاقة بين الناس والمكان: شخص ينتظر الحافلة، حشد يعبر الشارع، شخص يراقب الأمواج",
+      "صور عن عملية أو حالة أو استعارة: فنجان قهوة يبرد، شجرة في الريح، باب نصف مفتوح"
+    ],
+    "poor": [
+      "الرغبة في التعرّف على شكل الأصل: صور شخصية، صور الحيوانات الأليفة، عرض المنتجات، إذ لا يُرسم العنصر مباشرة",
+      "طلب خريطة ذهنية تقليدية أو مخطط انسيابي قياسي أو رسوم بيانية أو واجهة تقنية",
+      "صور تتطلب رسماً واقعياً أو مشهداً كاملاً أو ألواناً غنية"
+    ]
+  }
+}
